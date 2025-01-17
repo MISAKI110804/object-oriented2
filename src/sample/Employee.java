@@ -1,3 +1,5 @@
+package sample;
+
 public class Employee {
   //属性
   public String name;
