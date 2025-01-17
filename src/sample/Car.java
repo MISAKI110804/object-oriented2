@@ -1,8 +1,8 @@
 package sample;
 
 public class Car {
-private int speed;//速度を表す属性
-private String name;//名前を表す属性
+int speed;//速度を表す属性
+String name;//名前を表す属性
 
 //getterとsetter
 public String getName(){
